@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/redeem/route": "/api/redeem",
+  "/api/staff/codes/route": "/api/staff/codes",
+  "/api/staff/generate-code/route": "/api/staff/generate-code",
+  "/api/staff/login/route": "/api/staff/login",
+  "/api/staff/logout/route": "/api/staff/logout",
+  "/api/staff/session/route": "/api/staff/session",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
